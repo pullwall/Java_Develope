@@ -1,5 +1,2 @@
-# Java_ChatApp
-## Hongik University Java Programming Final Project
-### 2022/12/01 NEW UPDATES!! Using database[mysql] -> server can sign up new client and store client's id,password, name. server can save chatting log
-Run clientServer.java and ChatClient.java</br>
-Database must be run
+# Java_Develope
+## Java로 개발한 작업물들의 저장소
